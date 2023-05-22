@@ -1,0 +1,17 @@
+h1{
+   color:red; 
+   font-size: 30px
+   }
+
+   h2 {
+    color:deeppink;
+    font-size: 40px;
+
+   }
+   p{
+      color: blueviolet;
+      background-color: cadetblue;
+   }
+
+   
+/* opções de CSS, inline, internal e external */
